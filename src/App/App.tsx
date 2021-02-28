@@ -1,9 +1,9 @@
-import React, { useState } from 'react'
-import logo from './logo.svg'
-import styles from './App.module.css'
+import React, { useState } from 'react';
+import logo from './logo.svg';
+import styles from './App.module.css';
 
 export const App: React.FC = () => {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(0);
 
   return (
     <div className={styles.app}>
@@ -39,5 +39,5 @@ export const App: React.FC = () => {
         </p>
       </header>
     </div>
-  )
-}
+  );
+};
