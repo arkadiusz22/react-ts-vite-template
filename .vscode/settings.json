@@ -7,7 +7,6 @@
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.suggestSelection": "first",
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "window.autoDetectColorScheme": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true,
